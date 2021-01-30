@@ -18,11 +18,11 @@ public class Scanner_input {
 
 		System.out.println("Enter your password:");
 		String password = sc.next();
-		if (password==26) {
-		System.out.println("Your password" + password);
-		}
-		else {
-			
-		}
+//		if (password==26) {
+//		System.out.println("Your password" + password);
+//		}
+//		else {
+//			
+//		}
 	}
 }
